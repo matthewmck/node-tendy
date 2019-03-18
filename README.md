@@ -2,7 +2,7 @@
 
 ![yes](https://raw.githubusercontent.com/matthewmck/tendy/master/photos/yes.png)
 
-![no](https://raw.githubusercontent.com/matthewmck/tendy/master/photos/no.png)
+![nope](https://raw.githubusercontent.com/matthewmck/tendy/master/photos/nope.png)
 
 ## Install and Usage
 1. Download this repo
