@@ -23,7 +23,7 @@ request(options,
     const wholeSub = $('#content_1_3fourthswidth2colright_1_ProductQuantity_radio2Content');
     const onSale = !wholeSub.children('span').text().includes("$8.99");
     const yes = chalk.bold.green(`YES THEY ARE!!!`);
-    const no = chalk.bold.red(`Not this week my dude :(`)
+    const no = chalk.bold.red(`Nope :(`)
 
     onSale 
       ? console.log(yes)
