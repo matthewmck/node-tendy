@@ -1,4 +1,4 @@
-# tendy.js
+# Are Publix Chicken Tinders on Sale?
 
 ![yes](https://raw.githubusercontent.com/matthewmck/tendy/master/photos/yes.png)
 
