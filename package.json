@@ -1,5 +1,5 @@
 {
-  "name": "tendy",
+  "name": "node-tendy",
   "version": "1.0.0",
   "description": "Check yo tendies",
   "main": "tendy.js",
